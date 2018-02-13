@@ -1,6 +1,7 @@
 /*********************************************************************
 ** Description:Calculates the point of intersection for two lines
 **These are some additional comments
+This is a test of slack integration
 *********************************************************************/
 Point Line::intersectionWith(Line line2)
 {
