@@ -29,6 +29,7 @@ Point Line::intersectionWith(Line line2)
 
 //deleted this stupid shit
 //these are comments made in Atom
+//These are some comments to test branching in Atom
   double line2_Y_intercept = balls;
 
   return mid_point;
